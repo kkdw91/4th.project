@@ -4,3 +4,5 @@
 ## 1. Week 1 : Ruby
 - day 1 : Ruby 입문,
     * Ruby 활용 Scraping : Nokogiri, HTTParty
+
+- day 2 : Ruby 활용(다시 정리할 것!)
